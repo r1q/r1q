@@ -29,8 +29,6 @@ Highly skilled in conceiving and designing websites, as well as full-scale Rich 
 
 <br/>
 
-<br/>
-
 ### Languages and Tools
 
 <div>
