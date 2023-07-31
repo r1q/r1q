@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 Versatile Senior Professional with an outstanding track record as a Frontend Engineer, UI/UX Designer, Early Adopter, Client Advocate, Team player, and Change Agent in multinational market spaces.
 Highly skilled in conceiving and designing websites, as well as full-scale Rich Mobile Apps and UI designs with leading-edge technology. product oversight, enterprise planning, market entry, and organizational streamlining.
 <br/>
+<br/>
 Widely recognized by top management, industry peers, and team members for hands-on expertise in complex project oversight, multimedia presentations, process improvements, resource allocation, and brand positioning in cross-cultural settings.
 
 <br/>
