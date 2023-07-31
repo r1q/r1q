@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hey 👋, I'm Tariq Abuirshaid
+## Hey 👋, I'm Ta(<b>riq</b>) Abuirshaid
 
 <!-- <a href="https://github.com/r1q" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
